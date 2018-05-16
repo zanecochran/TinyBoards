@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Stopwatch
+*Date=00:22:20
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;[THT];7.11877;-4.62329;0;Bottom;S1
+2;;THT;23.1844;-20.6704;0;Bottom;ON/OFF
+3;;fkit-led-1206;3.28379;-17.2433;0;Top;LED3
+4;;fkit-led-1206;3.30003;-20.1827;0;Top;LED2
+5;;fkit-led-1206;3.24993;-22.8878;0;Top;LED1
+6;;;5.94615;-22.4974;0;Bottom;TXT1
+7;;;4.4302;-23.7678;0;Bottom;TXT1
+8;;;18.9471;-9.44032;0;Bottom;Via1
+9;;fkit-led-1206;3.27655;-11.9471;0;Top;LED5
+10;;fkit-led-1206;3.33492;-9.19732;0;Top;LED6
+11;;so16;15.7669;-16.3623;90;Top;IC1
+12;;battcom_20mm_pth;12.5777;-12.5187;90;Bottom;BAT1
+13;;fkit-led-1206;3.29291;-14.599;0;Top;LED4
+14;;DIP (Dual Inline) [THT];18.9291;-5.93091;0;Bottom;TINY85
