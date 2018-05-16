@@ -1,0 +1,27 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=LEDCompass
+*Date=00:22:13
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;21.2664;-4.2174;0;Top;Part4
+2;;;4.42818;-22.5581;0;Bottom;TXT1
+3;;[THT];21.1485;-12.308;90;Bottom;S4
+4;;THT;21.2844;-20.4618;0;Top;Part3
+5;;[THT];12.7681;-20.8242;180;Bottom;S3
+6;;[THT];12.7681;-3.97293;180;Bottom;S5
+7;;THT;3.88951;-20.3712;0;Top;Part1
+8;;DIP (Dual Inline) [THT];12.7227;-12.4164;0;Bottom;IC1
+9;;;4.4302;-23.7678;0;Bottom;TXT1
+10;;THT;3.70832;-4.47124;0;Top;Part2
+11;;[THT];4.20658;-12.308;90;Bottom;S2
+12;;battcom_20mm_pth;12.5777;-12.5187;90;Bottom;BAT1
