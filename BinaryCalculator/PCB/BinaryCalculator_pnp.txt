@@ -1,0 +1,39 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=BinaryCalculator
+*Date=00:57:37
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;tactile-pth;10.5938;-8.03176;90;Bottom;S2
+2;;;13.2507;-14.7781;0;Bottom;Via2
+3;;;4.34421;-21.8234;0;Bottom;TXT1
+4;;led-0603;0.816925;-23.3023;180;Top;8
+5;;msop8;5.49307;-16.8935;180;Top;U2
+6;;;15.6253;-15.8012;0;Bottom;Via1
+7;;;2.78079;-22.85;0;Bottom;TXT1
+8;;led-0603;7.65932;-23.2326;180;Top;3
+9;;led-0603;8.99506;-23.1861;180;Top;2
+10;;msop8;2.02228;-16.9743;180;Top;U3
+11;;THT;4.15527;-1.55398;-90;Bottom;1/0
+12;;;6.49719;-16.5707;0;Bottom;Via3
+13;;DIP (Dual Inline) [THT];19.4151;-5.62717;0;Bottom;TINY85
+14;;led-0603;2.14074;-23.2591;180;Top;7
+15;;led-0603;3.492;-23.2703;180;Top;6
+16;;battcom_20mm_pth;12.5777;-12.5187;90;Bottom;BAT1
+17;;led-0603;10.3716;-23.1395;180;Top;1
+18;;;1.51472;-20.406;0;Bottom;TXT1
+19;;msop8;9.49874;-16.7791;180;Top;U4
+20;;tactile-pth;3.70553;-8.11729;90;Bottom;S1
+21;;led-0603;4.86541;-23.2614;180;Top;5
+22;;THT;23.3022;-20.7882;0;Bottom;ON/OFF
+23;;;4.01331;-23.9762;0;Bottom;TXT1
+24;;led-0603;6.28377;-23.2468;180;Top;4
