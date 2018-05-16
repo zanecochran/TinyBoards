@@ -1,0 +1,27 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=SimonSays
+*Date=00:22:15
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;4.4302;-23.7678;0;Bottom;TXT1
+2;;[THT];3.75613;-12.6142;90;Bottom;S2
+3;;THT;21.3138;-20.7387;0;Top;Part3
+4;;;4.42818;-22.5581;0;Bottom;TXT1
+5;;THT;3.64709;-4.7078;0;Top;Part2
+6;;DIP (Dual Inline) [THT];12.5447;-12.443;0;Bottom;TINY85
+7;;[THT];12.5631;-20.9286;180;Bottom;S4
+8;;battcom_20mm_pth;12.5777;-12.5187;90;Bottom;BAT1
+9;;[THT];12.5349;-4.05348;0;Bottom;S3
+10;;[THT];21.1335;-12.1213;90;Bottom;S1
+11;;THT;21.451;-4.13435;0;Top;Part4
+12;;THT;3.53803;-20.5751;0;Top;Part1
